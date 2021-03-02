@@ -1,0 +1,1 @@
+This repository will be used for any and all Kenzie Academy projects.
